@@ -3,3 +3,6 @@ hello!
 This is my first line of code
 
 Esta linea es de mas
+
+Cambiamos la VM a  una version de ubuntu
+
